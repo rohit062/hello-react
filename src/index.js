@@ -11,14 +11,14 @@ const App = () => {
   return (
     <div>
       <WeatherWidget/>
-      <ApprovalCard>
+      {/* <ApprovalCard>
       <CommentDetails avatar={faker.image.avatar()} name="Rohit" time="Today at 4 PM" comment="Nice post"/>
       </ApprovalCard>
       <ApprovalCard>
       <CommentDetails avatar={faker.image.avatar()} name="Alice" time="Today at 5 PM" comment="Nice post"/>
       <CommentDetails avatar={faker.image.avatar()} name="Aditi" time="Today at 6 PM" comment="Nice post"/>
       <CommentDetails avatar={faker.image.avatar()} name="Morg" time="Today at 7 PM" comment="Nice post"/>
-      </ApprovalCard>
+      </ApprovalCard> */}
     </div>
     )
 }
