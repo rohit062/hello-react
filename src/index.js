@@ -1,9 +1,9 @@
 // Import the react and reactDom Lib
 import React from 'react';
 import ReactDom from 'react-dom';
-import CommentDetails from './CommentDetails';
-import ApprovalCard from './ApprovalCard';
-import faker from 'faker'
+// import CommentDetails from './CommentDetails';
+// import ApprovalCard from './ApprovalCard';
+// import faker from 'faker'
 import WeatherWidget from './WeatherWidget';
 
 // create a react component
