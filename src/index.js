@@ -4,13 +4,15 @@ import ReactDom from 'react-dom';
 // import CommentDetails from './CommentDetails';
 // import ApprovalCard from './ApprovalCard';
 // import faker from 'faker'
-import WeatherWidget from './WeatherWidget';
+// import WeatherWidget from './WeatherWidget';
+import ImageGallery from './ImageGallery';
 
 // create a react component
 const App = () => {
   return (
     <div>
-      <WeatherWidget/>
+      <ImageGallery/>
+      {/* <WeatherWidget/> */}
       {/* <ApprovalCard>
       <CommentDetails avatar={faker.image.avatar()} name="Rohit" time="Today at 4 PM" comment="Nice post"/>
       </ApprovalCard>
